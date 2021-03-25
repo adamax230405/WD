@@ -1,0 +1,480 @@
+.mainfirst{width: 1920px; height: 700px; }
+.WDpicture {padding: 57px 1518px 643px 402px  }
+.rightmain {display: block; width: 619px ; height: 16px; position: absolute; left: 896px; top: 72px;font-size: 16px; color: #34547a }
+
+
+.PC1 {position: absolute; LEFT: 487px; top: 271px; bottom: 450px; }
+.design { position: absolute;left: 974px; top: 250px; font-size: 48px; }
+.underdesign{
+position:absolute; left:975px; top: 355px;
+}
+.phoneme{
+   background-color:rgba(52, 84, 122, 1);
+   width:255px ;
+   height: 65px;
+   position: absolute; left: 975px; top: 482px;
+
+}
+.writeme{
+ font-size: 16px;  
+ color:rgba(255, 255, 255, 1);
+ position: absolute; left: 60px; top: 21px;
+
+ 
+}
+.blocksecond{
+width: 1920px;
+ height: 350px;
+  background-color:white;
+}
+.obo{
+padding: 112px 890px ; 
+font-size: 32px; 
+}
+.lorem{
+   color:rgba(114, 114, 114, 1) ;
+   font-size: 16px;
+   
+   
+}
+.lol{
+   margin-bottom: 0px;
+   width: 540px;
+   height: 97px;
+   box-sizing: border-box;
+   margin: -110px 700px 200px 680px;
+}
+.third{
+   height: 250px; ;
+   width: 1920px;
+background-color:rgba(52, 84, 122, 1) ;
+
+
+}
+.fs{
+   position: absolute;
+left: 405px ;
+top: 1180px;
+
+}
+.sv{
+   position: absolute;
+   left: 595px;
+   top:1180px;
+
+}
+.tt{
+   position: absolute;
+   left: 785px;
+   top:1180px; 
+}
+.dd{
+   position: absolute;
+   left: 975px;
+   top:1180px;  
+}
+.ll{
+   position: absolute;
+   left: 1165px;
+   top:1180px;  
+
+}
+.cc{
+   position: absolute;
+   left: 1355px;
+   top:1180px; 
+}
+.fourth{
+   background-color:rgba(249, 249, 249, 1);
+   width: 1920px;
+   height: 650px;
+}
+
+.my{
+font-size: 32px; 
+position: absolute; 
+left: 386px;
+top:1515px
+}
+.line1{
+ position: absolute;
+ left: 386px;  
+ top: 1629px;
+}
+.line2{
+ position: absolute;
+ left:386px;
+ top:1698px;  
+}
+.line3{
+position: absolute;  
+left:386px ; 
+top:1766px;
+}
+.photoshop1{
+ font-size: 16px;  
+ color:rgba(114, 114, 114, 1) ;
+ position: absolute;
+ left:387px;
+ top:1594px;
+}
+.photoshop2{
+   font-size: 16px;  
+   color:rgba(114, 114, 114, 1) ;
+   position: absolute;
+   left:387px;
+   top:1663px;
+}
+.photoshop3{
+   font-size: 16px;  
+   color:rgba(114, 114, 114, 1) ;
+   position: absolute;
+   left:387px;
+   top: 1731px;
+}
+.photomen{
+ box-sizing: border-box;  
+ position: absolute;
+ top:1425px;
+ left: 981px;
+}
+.lala1{
+   position: absolute;
+   top: 1629px;
+   left: 386px;
+}
+.lala2{
+   position: absolute;
+   top: 1697px;
+   left: 386px;  
+
+}
+.lala3{
+   position: absolute;
+   top: 1766px;
+   left: 386px;  
+}
+.fifth{
+  background-color:rgba(238, 239, 241, 1) ; 
+  width: 1920px;
+  height: 1004px;
+}
+.working{
+ font-size: 32px;  
+ position: absolute;
+ left: 860px;
+ top: 2062px;
+ width: 220px;
+ height: 38px;
+}
+.loremworking{
+ font-size: 16px; 
+ color:rgba(114, 114, 114, 1) ; 
+ position: absolute;
+ left: 690px;
+ top:2117px;
+ width: 540px;
+ height: 92px;
+}
+.photo2{
+   width: 300px;
+}
+
+.romba{
+  /* Rectangle 5 */
+
+position: absolute;
+width: 1110px;
+height: 600px;
+left: 405px;
+top: 2266px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url(/images/Rectangle\ 5.png);
+
+ 
+}
+.bottomplay{
+position:
+ absolute; 
+ left: 910px; 
+ top: 2516px; 
+}
+.six{
+width: 1920px;
+height: 1200px; 
+background-color:rgba(249, 249, 249, 1) ;
+
+}
+.paperss{
+ /* Rectangle 7 */
+
+position: absolute;
+width: 480px;
+height: 480px;
+left: 0px;
+top: 2994px;
+
+background: url(photo-1542627250-da40d2d18228.jpg), #C4C4C4;
+  
+}
+.papers2{
+/* Rectangle 7.4 */
+
+position: absolute;
+width: 480px;
+height: 480px;
+left: 479px;
+top: 3474px;
+
+background: url(photo-1542627250-da40d2d18228.jpg), #C4C4C4;
+
+}
+.papres3{
+ /* Rectangle 7.2 */
+
+position: absolute;
+width: 480px;
+height: 480px;
+left: 960px;
+top: 2994px;
+
+background: url(photo-1542627250-da40d2d18228.jpg), #C4C4C4;
+  
+}
+.pcpc{
+/* Rectangle 7.7 */
+
+position: absolute;
+width: 480px;
+height: 480px;
+left: 0px;
+top: 3474px;
+
+background: url(photo-1454165804606-c3d57bc86b40.jpg), #D8D8D8;
+
+}
+.pcpc3{
+ /* Rectangle 7.5 */
+
+position: absolute;
+width: 480px;
+height: 480px;
+left: 959px;
+top: 3474px;
+
+background: url(photo-1454165804606-c3d57bc86b40.jpg), #D8D8D8;
+  
+}
+.pcpc2{
+ /* Rectangle 7.1 */
+
+position: absolute;
+width: 480px;
+height: 480px;
+left: 480px;
+top: 2994px;
+
+background: linear-gradient(0deg, rgba(52, 84, 122, 0.8), rgba(52, 84, 122, 0.8)), url(photo-1454165804606-c3d57bc86b40.jpg);
+  
+}
+.papers4{
+/* Rectangle 7.6 */
+
+position: absolute;
+width: 480px;
+height: 480px;
+left: 1439px;
+top: 3474px;
+
+background: url(photo-1542627250-da40d2d18228.jpg), #C4C4C4;
+
+}
+.pcpc4{
+/* Rectangle 7.3 */
+
+
+width: 480px;
+height: 480px;
+left: 1440px;
+top: 2994px;
+position: absolute;
+
+background: url(photo-1454165804606-c3d57bc86b40.jpg), #D8D8D8;
+
+}
+.blue{
+   position: absolute;
+   left:480px;
+   top: 2994px;
+   background-color: rgba(52, 84, 122, 0.8);
+   width: 480px;
+   height: 480px;
+   z-index: 1;
+}
+.eye{
+position: absolute;  
+left: 670px;
+top: 3184px;
+z-index: 2;
+}
+
+
+
+
+.seven{
+   position: absolute;
+   width: 1920px;
+   height: 762px;
+   background-color:rgba(238, 239, 241, 1) ;
+
+}
+.quastion{
+   
+   font-size: 32px;
+   position: absolute;
+   left:845px;
+   top:50px;
+
+}
+.loremquastion{
+ width: 540px; 
+ height: 84px;
+ position: absolute; 
+ left: 690px;
+ top: 120px;
+ text-align: center;
+ font-size: 16px;
+ color:rgba(114, 114, 114, 1) ;
+
+}
+.blockname{
+ width: 255px; 
+ height: 50px; 
+ background-color: rgba(255, 255, 255, 1);
+ position: absolute;
+ top: 260px;
+ left: 690px;
+
+}
+.email{
+   width: 255px; 
+   height: 50px; 
+   background-color: rgba(255, 255, 255, 1);
+   position: absolute;
+   top:260px;
+   left:985px;   
+}
+
+.name{
+
+position: absolute;
+top:13px;
+left:8px;
+color:rgba(95, 93, 93, 1) ;
+font-size: 14px;
+
+}
+.emailin{
+position: absolute; 
+ left:1000px ;
+ top: 4455px;
+ width:74px ;
+ height: 15px;
+ font-size: 14px;
+ color:rgba(95, 93, 93, 1);
+
+}
+.messsage{
+ background-color:rgba(255, 255, 255, 1) ; 
+ width:555px ; 
+ height: 175px;
+ position: absolute;
+ top: 350px ;
+ left:687px ;
+
+}
+.mess{
+ font-size: 14px; 
+ color:rgba(95, 93, 93, 1) ; 
+ position: absolute;
+ top: 12px;
+ left: 8px;
+}
+.bluebottom{
+ background-color: rgba(52, 84, 122, 1);  
+ width: 190px;
+ height: 55px;
+ position: absolute;
+ left: 880px;
+ top:4800px;
+}
+.send{
+  font-size: 14px;
+  color: rgba(255, 255, 255, 1); 
+  position: absolute;
+  top:4818px;
+  left:940px;
+  
+ 
+
+}
+.eig{
+
+width: 1920px;
+height: 151px;
+background:#34547a ;
+position: absolute;
+left: 4px;
+top: 4938px;
+
+}
+.ivanov{
+   width:130px ;
+   height: 19px;
+   font-size: 21px;
+   color:rgba(255, 255, 255, 1);
+   position: absolute;
+   left: 406px;
+   top:50px;
+}
+.c{
+  font-size: 13px; 
+  color: rgba(255, 255, 255, 1);
+  width: 193px;
+  height: 12px;
+  position: absolute;
+  top: 89px;
+  left: 406px;
+}
+.vk1{
+position: absolute; 
+left:1356px ;  
+top:64px;
+}
+.vk2{
+position: absolute;
+ top: 64px;  
+ left:1421px;
+}
+.vk3{
+ position: absolute; 
+ top: 64px; 
+ left:1487px;
+}
+.xuy{
+ padding: 0px;  
+ margin: 0px;
+}
+.microsoft{
+ /* Rectangle 9 */
+
+position: absolute;
+width: 255px;
+height: 120px;
+left: 405px;
+top: 4026px;
+z-index: 1;
+
+background: url(microsoft_PNG10.png);
+  
+}
